@@ -6,7 +6,7 @@ The usage of the code in a terminal:
 
 For LDA1dProjection.py and LDA2dGaussGM.py:
 
-$ python LDA1dProjection.py <file location> <number cross>
+$ python LDA1dProjection.py <file location> <number cross>  
 $ python LDA2dGaussGM.py <file location> <number cross>
 
 For logisticRegression.py and naiveBayesGaussian.py:
